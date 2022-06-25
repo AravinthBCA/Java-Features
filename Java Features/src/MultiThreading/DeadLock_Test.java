@@ -1,4 +1,4 @@
-package SynchronizationMultiThreading;
+package MultiThreading;
 
 public class DeadLock_Test implements Runnable{
 

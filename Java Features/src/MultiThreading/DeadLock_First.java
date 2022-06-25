@@ -1,4 +1,4 @@
-package SynchronizationMultiThreading;
+package MultiThreading;
 
 public class DeadLock_First {
 	public synchronized void method1(DeadLock_Second obj) {
